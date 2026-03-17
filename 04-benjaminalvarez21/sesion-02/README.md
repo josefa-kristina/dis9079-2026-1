@@ -9,7 +9,7 @@ Hola, mi grupo es Anays Cornejo y yo, gracias.
 Arduino, meterse al link y descargar la versión que pueda y sea correcta (si es Mac revisar el chip, si es chip Apple descarga el que no es Intel)
 
 Instalar Boards Manager -> Arduino Uno R4 Boards
-Library Manager 
+Library Manager (libritos que salen en arduino ide) descargar arduinographics y tambien arduinomqttclient
 
 Homebrew para instalar abrir el command + espacio, abrir terminal, copiar el link que te sale en homebrew
 
