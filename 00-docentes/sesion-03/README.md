@@ -86,23 +86,14 @@ hicimos 11 grupos, y repartimos los Arduino Uno R4 WiFi entre ellos, para que pu
 * DebSkar
 * cristobalvergarasilva
 
-### grupo-08
+### grupo-08 y grupo-09
 
-| brauliofigueroa2001   | TBD   |
-| Guilleibanez          | TBD   |
-| TBD                   | TBD   |
-| marlensoto-lab        | TBD   |
-| Luisaatoro9           | TBD   |
-| marcezm               | TBD   |
-
-### grupo-09
-
-| brauliofigueroa2001   | TBD   |
-| Guilleibanez          | TBD   |
-| TBD                   | TBD   |
-| marlensoto-lab        | TBD   |
-| Luisaatoro9           | TBD   |
-| marcezm               | TBD   |
+* brauliofigueroa2001
+* Guilleibanez
+* TBD
+* marlensoto-lab
+* Luisaatoro9
+* marcezm
 
 ### grupo-10
 
@@ -160,7 +151,7 @@ Ambas placas tienen una versión con comunicaciones inalámbricas que reciben el
 
 para la placa Arduino usaremos el software Arduino IDE que ya instalamos.
 
-para la placa Raspberry Pi usaremos una herramienta de desarrollo profesional llamada Visual Studio Code.
+para la placa Raspberry Pi usaremos una herramienta de desarrollo profesional llamada Visual Studio Code, que se puede descargar en <https://code.visualstudio.com/>.
 
 dentro de Visual Studio Code, entramos a sección `Extensions`, y buscamos la extensión `Raspberry Pi Pico` de autores `Raspberry Pi`, y la instalamos.
 
